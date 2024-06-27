@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+
+html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Página de Exemplo Profissional</title>
+</head>
+<body>
+<marquee behavior="alternate" direction="" bgcolor="#998496">
+    <h1><font face="Georgia" color="#ffffff">SegByte:</font></h1>
+</marquee>
+    
+
+
+
+
+
+
+
+
+
+
+
+    <h2><font face="Georgia" color="#Purple">cibersegurança</font></h2>
+    <p><font face="Arial" size="4">Somos uma empresa dedicada a fornecer as melhores soluções tecnológicas para nossos clientes. Nossa equipe é composta por profissionais altamente qualificados e comprometidos com a excelência.</font></p>
+
+
+
+
+
+
+
+
+
+ 
+    
+    <p><font face="Arial" size="6">O que é cibersegurança?</font></p>
+    
+    <ul>
+
+
+
+
+
+
+
+
+
+
+        <li><font face="Arial" size="4" color="darkred"><b>Cibersegurança</b>: A cibersegurança refere-se a qualquer tecnologia, medida ou prática para prevenir ataques cibernéticos ou mitigar seu impacto.</font></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <li><font face="Arial" size="4" color="Black">A cibersegurança visa proteger os sistemas, aplicações, 
+            dispositivos de computação, dados sensíveis e ativos 
+            financeiros de indivíduos e organizações contra vírus de 
+            computador, ataques sofisticados e custosos de ransomware emais.
+            Os ataques cibernéticos têm o poder de interromper, danificar ou destruir empresas,
+             e o custo para as vítimas continua aumentando. Por exemplo, de acordo com o relatório "Custo da violação de dados" da IBM de 2023.</font></li>
+
+             
+             <hr color="##79254a">
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <li><font face="Arial" size="3" color="darkblue"><Pesquisas:</b>O custo médio de uma violação de dados em 2023 foi de USD 4,45 milhões,
+             um aumento de 15% nos últimos três anos;
+ O custo médio de uma violação de dados relacionado a ransomware em 2023 foi ainda maior, atingindo USD 5,13 milhões. Esse número não inclui o custo do pagamento do resgate, que teve uma média de USD 1.542.333 adicionais, um aumento de 89% em relação ao ano anterior.</font></li>
+    </ul>
+
+ 
+    <h2><font face="Georgia" color="pink">Solução</font></h2>
+    <p><font face="Arial" size="4">Pensando nisso nossos Profissionais, disponibilizaram aulas 
+        Online em breve, para empresas parceiras, visando maior segurança para os nossos clientes abriremos turmas,
+        dos cursos abaixo :
+    </font></p>
+
+    <ol>
+        <li><font face="Arial" size="4" color="purple"><b>Ethical Hacker</b> - Certificação</font></li>
+        <li><font face="Arial" size="4" color="purple"><b>Leader Implementer</b> - Certificação</font></li>
+        <li><font face="Arial" size="4" color="Purple"><b>CompTIA Security+</b> - Certificação em Desenvolvimento</font></li>
+    </ol>
+
+  
+    <h2><font face="Georgia" color="purple">Contato</font></h2>
+    <p><font face="Arial" size="4">Entre em contato conosco para mais informações:</font></p>
+    <p><font face="Arial" size="4"><b>Email:</b> contato@empresaexemplo.com</font></p>
+    <p><font face="Arial" size="4"><b>Telefone:</b> (11) 1234-5678</font></p>
+    <p><font face="Arial" size="4"><b>Aleatório:</b> H<sub>2</sub>O - m <sup>2</sup></font></p>
+   
+
+    <footer>
+        <p align="center"><font face="Arial" size="2" color="gray">© 2024 Empresa Exemplo. Todos os direitos reservados.</font></p>
+    </footer>
+
+</body>
+</html>
+    
