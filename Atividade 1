@@ -1,11 +1,12 @@
+<!DOCTYPE html>
 
-<html lang="pt-BR">
+html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <title>Página de Exemplo Profissional</title>
 </head>
 <body>
-<marquee behavior="alternate" direction="" bgcolor="#2d6073">
+<marquee behavior="alternate" direction="" bgcolor="#998496">
     <h1><font face="Georgia" color="#ffffff">Bem-vindo ao Nosso Website</font></h1>
 </marquee>
     
